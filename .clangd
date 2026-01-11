@@ -1,2 +1,2 @@
 CompileFlags:
-  Add: ["-Ivendor/include/SDL2", "-Lvendor/lib"]
+  Add: ["-Ivendored/include", "-Lvendored/lib"]
